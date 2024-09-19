@@ -8,4 +8,5 @@ Podendo executar três ações:
 ## Instalação
 Você vai precisar ter o Node instalado.
 1. Instale as dependências: `npm install`
-2. Rode a aplicação: `npm run dev`
+2. Rode o backend e cheque se a port esta correto no `.env`
+3. Rode a aplicação: `npm run dev`
